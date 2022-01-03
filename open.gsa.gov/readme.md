@@ -5,7 +5,7 @@ Open VS command prompt in admin mode and run below GAC command
 
 
 	gacutil /i  "C:\All Files\Learning\SSIS\open.gsa.gov\open.gsa.gov\lib\Newtonsoft.Json.dll"
-Change aboce path to dll location on your machine
+Change above path to dll location on your machine
 
 
 ###  Execute script from folder \open.gsa.gov\sql
